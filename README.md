@@ -34,18 +34,16 @@ Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart 
 
 # created following KPI's using Dax
 - Total Order Lines
-- Line Fill Rate [LIFR]
-- Line Fill Rate % [LIFR%]
-- Volume Fill Rate [VOFR]
-- Volume Fill Rate % [VOFR%]
+- Line Fill Rate [ LIFR ]
+- Line Fill Rate % [ LIFR% ]
+- Volume Fill Rate [ VOFR ]
+- Volume Fill Rate % [ VOFR% ]
 - Total Orders
-- On Time Delivery % [OT%]
-- In Full Delivery % [IF%]
-- On Time In Full % [OTIF%]
+- On Time Delivery % [ OT% ]
+- In Full Delivery % [ IF% ]
+- On Time In Full % [ OTIF% ]
 - On Time Target 
 - In Full Target 
 - On Time In Full Target 
 - Delayed Orders Count
-- 
-![image](https://user-images.githubusercontent.com/114512832/198086393-23b1ffdc-855d-47f2-a17d-c4af88b60108.png)
 
