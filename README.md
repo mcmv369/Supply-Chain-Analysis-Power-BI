@@ -25,12 +25,12 @@ Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart 
 # Some Major Insights
 - All the Key Metrics (OT%, IF%, OTIF%) are far behind the target
 - On an average, orders are delayed 0.42 days from the agreed date of delivery- 
-- Lotus Mart, Coolblue, Acclaimed stores have the highest orders as well as delayed the most to deliver the products on time
+- Lotus Mart, Coolblue, Acclaimed stores have bad OTIF%  and delayed the most to deliver the products on time
   - Is it because we are not estimating the right delivery date?
   - Is it because we are receiving more orders than expected?
-- Ghee, curd and butter products are most delayed to deliver.
 - There is no noticeable improvements in any of the key metrics in the last few months
 - There is a huge gap in IF% for most of the customers. Is it because of less production?
+- Over all VOFR% looks good but LIFR% needs to be pulled up
 
 # created following KPI's using Dax
 - Total Order Lines
